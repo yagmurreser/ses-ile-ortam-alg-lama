@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.9
+librosa==0.10.2
+torch==2.9.0
+numpy>=1.26.4
+pydub==0.25.1
+static-ffmpeg==2.5
+soundfile==0.12.1
